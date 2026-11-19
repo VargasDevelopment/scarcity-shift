@@ -1,10 +1,11 @@
 ---
 name: scarcity-shift
-description: Use when someone asks whether an idea is worth pursuing commercially, as as side project, why a venture isn't getting traction, or invokes /scarcity-shift. 
+description: Judge whether an idea is worth pursuing, as a business or a side project, by what stays scarce when AI makes production cheap. Use when someone asks whether an idea is worth pursuing, why a venture isn't getting traction, or invokes /scarcity-shift.
 ---
 
 # Scarcity Shift
-Evaluate a business, side project, product, or startup idea with the Scarcity Shift framework. When AI makes production cheap, value moves to what stays scarce, such as distribution, trust, ownership, data, and access. Returns a classification, a gated analysis, the smallest honest test, and a decisive verdict. 
+
+Evaluate a business, side project, product, or startup idea with the Scarcity Shift framework. When AI makes production cheap, value moves to what stays scarce, such as distribution, trust, ownership, data, and access. Returns a classification, a gated analysis, the smallest honest test, and a decisive verdict.
 
 Help the user judge an idea honestly. The core claim: **democratizing production does not democratize demand.** When AI makes code, content, and products cheap, being able to make the thing is no longer an advantage. Value moves to scarce complements: distribution, trust, accountability, proprietary data, relationships, and physical or regulated access.
 

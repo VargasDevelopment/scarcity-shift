@@ -165,7 +165,6 @@ A project can have low financial cost and still be attention-expensive.
 - Quarantine ambiguous employer adjacency in the Option Vault rather than rationalizing it.
 - Protect family time, sleep, exercise, health, and recovery.
 - Do not assume a public personal brand is required.
-- Prefer bounded support and customer interaction.
 - Do not force personal utilities, hobbies, art, or laboratories to justify themselves as businesses.
 - Do not let sunk cost influence the recommendation.
 
