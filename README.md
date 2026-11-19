@@ -27,11 +27,16 @@ npx skills@latest add VargasDevelopment/scarcity-shift
 
 That one command installs the skill for Claude Code, Codex, and other agents that read `SKILL.md`. Pick your agents when prompted.
 
-**Claude Code plugin**, if you want updates through the plugin system:
+**As a plugin**, if you want updates through your agent's plugin system:
 
-```
-/plugin marketplace add VargasDevelopment/scarcity-shift
-/plugin install scarcity-shift@scarcity-shift
+```sh
+# Claude Code
+claude plugin marketplace add VargasDevelopment/scarcity-shift
+claude plugin install scarcity-shift@scarcity-shift
+
+# Codex
+codex plugin marketplace add VargasDevelopment/scarcity-shift
+codex plugin add scarcity-shift@scarcity-shift
 ```
 
 ## Use
