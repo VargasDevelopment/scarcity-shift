@@ -1,0 +1,14 @@
+{
+  "name": "scarcity-shift",
+  "version": "0.1.0",
+  "description": "Judge a business or side-project idea by what stays scarce when AI makes production cheap: distribution, trust, ownership, data, and access.",
+  "author": {
+    "name": "Joseph Vargas",
+    "url": "https://blog.josephvargas.dev"
+  },
+  "homepage": "https://github.com/VargasDevelopment/scarcity-shift",
+  "repository": "https://github.com/VargasDevelopment/scarcity-shift",
+  "license": "MIT",
+  "keywords": ["strategy", "startups", "side-projects", "ai", "evaluation"],
+  "skills": ["./skills/scarcity-shift"]
+}

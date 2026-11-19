@@ -1,0 +1,3 @@
+interface:
+  display_name: "Scarcity Shift"
+  short_description: "Judge an idea by what stays scarce when AI makes production cheap"

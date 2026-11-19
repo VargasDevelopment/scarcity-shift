@@ -1,0 +1,17 @@
+{
+  "name": "scarcity-shift",
+  "owner": {
+    "name": "Joseph Vargas",
+    "url": "https://blog.josephvargas.dev"
+  },
+  "description": "The Scarcity Shift skill, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "scarcity-shift",
+      "source": "./",
+      "description": "Judge a business or side-project idea by what stays scarce when AI makes production cheap.",
+      "category": "productivity",
+      "keywords": ["strategy", "startups", "side-projects", "ai"]
+    }
+  ]
+}

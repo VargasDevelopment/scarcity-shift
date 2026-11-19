@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: backs-accountable-service
+expected_outcome: |
+  An idea built on owned relationships and accountable outcomes gets a positive verdict with a manual first test, and the response credits the scarce asset.

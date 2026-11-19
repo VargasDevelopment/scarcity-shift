@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: vaults-employer-adjacent-idea
+expected_outcome: |
+  An otherwise promising idea that overlaps the person's employer is moved to the Option Vault (or explicitly blocked on employer adjacency), not rationalized.

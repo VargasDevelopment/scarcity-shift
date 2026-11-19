@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: keeps-weather-station-as-hobby
+expected_outcome: |
+  A fun technical hobby project is recognized as personal utility, art, a lab, or professional investment rather than upgraded into a business; the response notes that weather data and forecasts are already abundant and free.
